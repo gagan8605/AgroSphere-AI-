@@ -1,0 +1,23 @@
+[
+  {
+    "dispatch_id": "DSP-GJ-10001",
+    "timestamp": "2026-10-02 11:43:30",
+    "dealer_id": "DLR-REG-1001",
+    "dealer_name": "Test Krushi Kendra",
+    "recipient_phone": "+91 98765 43210",
+    "recipient_email": "test@agrosphere.ai",
+    "preferred_language": "English",
+    "risk_level": "SEVERE_STOCKOUT_RISK",
+    "sku_id": "UB-BIO-01",
+    "product_name": "AgroSphere Bio-Shield",
+    "recommended_reorder_qty": 100,
+    "channels": [
+      "WhatsApp_Business_API",
+      "Email_PO",
+      "SMS_Gateway"
+    ],
+    "status": "DELIVERED_200_OK",
+    "message_body": "🚨 *[AgroSphere AI Priority Restocking Advisory]*\n\nDear Test Contact (Test Krushi Kendra),\nGreetings from AgroSphere AI.\n\nMeteorological forecasts indicate sustained weather shifts in Central Hub (25.0mm rainfall, 75.0% RH). This directly escalates the threat of Root Rot, Wilt, Damping-off, Fungal Blight across local Groundnut, Cotton, Vegetables, Pulses cultivations.\n\nAgroSphere AI forecasting projects a **+30.0% demand surge** for **AgroSphere Bio-Shield (Trichoderma viride 1.5% WP (Bio-Fungicide))** over the upcoming 14-day window.\n\n📦 *Dealer Stock Status:*\n• Current Recorded Stock: 15 Liters\n• Recommended Early-Bird Restock: *100 Liters*\n\nSecure your pre-dispatch allocation from our Central Logistics Hub to avoid regional stockouts:\n👉 [Confirm Fast-Track Dispatch: https://agrosphere.ai/dispatch/DLR-REG-1001]\n\nBest regards,\nAI Supply Chain Automation Division, AgroSphere AI",
+    "order_tracking_url": "https://agrosphere.ai/dispatch/DLR-REG-1001?sku=UB-BIO-01&qty=100"
+  }
+]

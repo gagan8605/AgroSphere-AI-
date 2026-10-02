@@ -1,0 +1,9 @@
+{
+  "pipeline_status": "SUCCESS",
+  "total_dealers_evaluated": 3190,
+  "high_surge_clusters": 7,
+  "dealers_at_stockout_risk": 393,
+  "alerts_dispatched": 25,
+  "model_mape_pct": 45.37,
+  "primary_surge_category": "Green Crop Protection (Bio-Shield) & Hydrogels"
+}
